@@ -107,7 +107,6 @@ test
 
 This exploit requires a password that we don't have so let's check the samba service.  
 
-
 2. OS: Unix (Samba 3.0.20-Debian)
 ```
 searchsploit Samba 3.0.20
